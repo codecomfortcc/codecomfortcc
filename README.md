@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **webRTC**
 
-- 👨‍💻 All of my projects are available at [casecode.vercel.app](casecode,vercel.app)
+- 👨‍💻 All of my projects are available at [casecode.vercel.app](https://casecode,vercel.app)
 
 - 💬 Ask me about **Go, MERN**
 
