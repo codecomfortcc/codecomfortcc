@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasovardhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align=right" alt="code" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **webRTC**
 
-- 👨‍💻 All of my projects are available at [thinkfinte.com](thinkfinte.com)
+- 👨‍💻 All of my projects are available at [casecode.vercel.app](casecode,vercel.app)
 
-- 💬 Ask me about **Java, MERN**
+- 💬 Ask me about **Go, MERN**
 
 - 📫 How to reach me **yasovardhanmasani@gmail.com**
 
